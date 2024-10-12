@@ -1,5 +1,5 @@
 
-https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/d66528ce-c08c-4c69-8a02-6f894aee664c)
 
 
 # Welcome to my corner of the internet! I’m a passionate junior back-end developer with a focus on creating efficient and scalable web applications.
