@@ -21,20 +21,18 @@ I specialize in using Java and Spring Boot to build robust back-end solutions. M
 
 Here are some of the projects I’ve been working on:
 
-	-	[Project Name 1]: A brief description of what this project is about and the technologies you used.
-	-	[Project Name 2]: Another project description with the tech stack you utilized.
-	-	[Project Name 3]: Highlight any unique features or challenges you overcame.
+	-	[Project Name]: hold on! its coming soon!
 
-##🌱 I’m currently learning…
+## 🌱 I’m currently learning…
 
-I’m constantly trying to expand my skill set! Right now, I’m diving deeper into [specific technology, framework, or concept you are exploring]. I’m also interested in learning more about [another topic of interest].
+I’m constantly trying to expand my skill set! Right now, I’m diving deeper into [specific technology, framework, or concept you are exploring]. I’m also interested in learning more about web3.
 
 ## 💬 Get in Touch
 
 I love connecting with others in the tech community! Feel free to reach out to me on:
 
-	-	[LinkedIn](Your LinkedIn URL)
-	-	[GitHub](Your GitHub URL)
-	- [Twitter](Your Twitter URL)
+	-	[Blog] https://minjooig.tistory.com/
+	-	[Gmail] minjoois2@gmail.com
+	- 	[LinkedIn](If i will have working backend developer, then i will insert. so you need to spring backend developer, contact me! 📞 )
 
 **Thank you for visiting my profile! I’m excited to connect and collaborate on new projects!**
