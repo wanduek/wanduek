@@ -31,6 +31,6 @@ I’m constantly trying to expand my skill set! Right now, I’m diving deeper i
 
 I love connecting with others in the tech community! Feel free to reach out to me on:
 
-	- 	[LinkedIn](If i will have working backend developer, then i will insert. so you need to spring backend developer, contact me! 📞 )
+	- 	[LinkedIn](If i will be have working backend developer, then i will insert. so you need to spring backend developer, contact me! 📞 )
 
 **Thank you for visiting my profile! I’m excited to connect and collaborate on new projects!**
