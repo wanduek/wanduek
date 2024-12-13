@@ -12,16 +12,17 @@ I specialize in using Java and Spring Boot to build robust back-end solutions. M
 
 	- Languages: Java, SQL
 	-	Frameworks: Spring Boot, JPA
-	-	Databases: MySQL
-	-	Cloud Services: AWS (EC2, RDS, S3)
+	-	Databases: MySQL, MongoDB
+	-	Cloud Services: AWS (EC2, ECR, RDS, S3)
 	-	Containerization: Docker
+ 	-	Message Queue: RabbitMQ
 	-	Caching: Redis
 
 ## 🌟 Projects
 
 Here are some of the projects I’ve been working on:
 
-	-	[Project Name]: hold on! its coming soon!
+	-	[OtterMeet]: hold on! its coming soon!
 
 ## 🌱 I’m currently learning…
 
