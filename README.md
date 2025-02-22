@@ -39,6 +39,7 @@ I specialize in using Java and Spring Boot to build robust back-end solutions. M
 Here are some of the projects I’ve been working on:
 
 	-	[OtterMeet]: In the individualism of modern society, it is a platform that makes it easy to create and participate in small meetings with people who will share hobbies. It provides an intuitive user experience and trust-based environment to create and build an active community safely and easily, allowing you to freely organize small meetings with people to engage in various activities on the web.
+ 	- 	[Trello] : Trelo, which is useful for collaboration, was similarly produced.
 
 ## 🌱 I’m currently learning…
 
