@@ -49,7 +49,7 @@ I’m constantly trying to expand my skill set! Right now, I’m diving deeper i
 
 I love connecting with others in the tech community! Feel free to reach out to me on:
 
-[LinkedIn](www.linkedin.com/in/민주-김-721a8233a)
+[Minju's LinkedIn](www.linkedin.com/in/민주-김-721a8233a)
  
 
 **Thank you for visiting my profile! I’m excited to connect and collaborate on new projects!**
